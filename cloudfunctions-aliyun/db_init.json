@@ -1,0 +1,130 @@
+// 在本文件中可配置云数据库初始化，数据格式见：https://uniapp.dcloud.io/uniCloud/cf-database?id=db_init
+
+// 编写完毕后对本文件点右键，可按配置规则创建表和添加数据
+
+{
+	"teacher": {
+		"data": [{
+				"name": "小明",
+				"age": 18
+			},
+			{
+				"name": "小红",
+				"age": 20
+			},
+			{
+				"name": "李雷",
+				"age": 23
+			}
+		]
+	},
+	"class": {
+		"data": [{
+				"name": "HTML5",
+				"price": 1680,
+				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
+					"http://zhufengpeixun.com/videoCourse/images/new1.png",
+					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
+					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
+				]
+			},
+			{
+				"name": "css3",
+				"price": 1000,
+				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
+					"http://zhufengpeixun.com/videoCourse/images/new1.png",
+					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
+					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
+				]
+			},
+			{
+				"name": "Javascript",
+				"price": 11800,
+				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
+					"http://zhufengpeixun.com/videoCourse/images/new1.png",
+					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
+					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
+				]
+			},
+			{
+				"name": "node",
+				"price": 3600,
+				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
+					"http://zhufengpeixun.com/videoCourse/images/new1.png",
+					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
+					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
+				]
+			},
+			{
+				"name": "VUE",
+				"price": 3000,
+				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
+					"http://zhufengpeixun.com/videoCourse/images/new1.png",
+					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
+					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
+				]
+			},
+			{
+				"name": "React",
+				"price": 4000,
+				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
+					"http://zhufengpeixun.com/videoCourse/images/new1.png",
+					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
+					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
+				]
+			}
+		]
+	},
+	"banner": {
+		"data": [{
+				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-04/FJ68IFA356NT0001NOS.jpg"
+			},
+			{
+				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-04/FJ68IFA456NT0001NOS.jpg"
+			},
+			{
+				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-04/FJ68IFA556NT0001NOS.jpg"
+			},
+			{
+				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-05/FJ8SOIKH56NT0001NOS.jpg"
+			}
+		]
+	},
+	"publicClass":{
+		"data":[
+			{
+				"publicId":"p1",
+				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1603181843.jpg",
+				"title":"手写Vue源码-可能是你见过最完整的版本！",
+				"url":"https://m.aldzs.com/"
+			},
+			{
+				"publicId":"p2",
+				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1598523943.jpg",
+				"title":"两天时间基于Vue从零打造自己的UI组件库",
+				"url":"https://m.aldzs.com/"
+			},
+			{
+				"publicId":"p3",
+				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1594973162.jpg",
+				"title":"工程化1:1从零实现Vue源码",
+				"url":"https://m.aldzs.com/"
+			},
+			{
+				"publicId":"p4",
+				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1592291479.jpg",
+				"title":"从零手写实现React16中的Fiber架构",
+				"url":"https://m.aldzs.com/"
+			},
+			{
+				"publicId":"p5",
+				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1590201805.jpg",
+				"title":"基于Vue+Vant搭建移动端通用骨架",
+				"url":"https://m.aldzs.com/"
+			}
+		]
+	},
+	"cartList": {
+		"data": []
+	}
+}

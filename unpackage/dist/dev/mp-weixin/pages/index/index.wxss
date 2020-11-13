@@ -1,0 +1,19 @@
+page {
+  background-color: #dfe7e7;
+}
+.swiper_box {
+  height: 180px;
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+  background-color: #eee;
+}
+.swiper_box .swiper {
+  height: 100%;
+}
+.swiper_box .swiper image {
+  width: 100%;
+}
+
