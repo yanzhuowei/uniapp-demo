@@ -2,129 +2,118 @@
 
 // 编写完毕后对本文件点右键，可按配置规则创建表和添加数据
 
+// 在本文件中可配置云数据库初始化，数据格式见：https://uniapp.dcloud.io/uniCloud/cf-database?id=db_init
+
+// 编写完毕后对本文件点右键，可按配置规则创建表和添加数据
+
 {
-	"teacher": {
-		"data": [{
-				"name": "小明",
-				"age": 18
-			},
-			{
-				"name": "小红",
-				"age": 20
-			},
-			{
-				"name": "李雷",
-				"age": 23
-			}
-		]
-	},
-	"class": {
-		"data": [{
-				"name": "HTML5",
-				"price": 1680,
-				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
-					"http://zhufengpeixun.com/videoCourse/images/new1.png",
-					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
-					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
-				]
-			},
-			{
-				"name": "css3",
-				"price": 1000,
-				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
-					"http://zhufengpeixun.com/videoCourse/images/new1.png",
-					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
-					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
-				]
-			},
-			{
-				"name": "Javascript",
-				"price": 11800,
-				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
-					"http://zhufengpeixun.com/videoCourse/images/new1.png",
-					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
-					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
-				]
-			},
-			{
-				"name": "node",
-				"price": 3600,
-				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
-					"http://zhufengpeixun.com/videoCourse/images/new1.png",
-					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
-					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
-				]
-			},
-			{
-				"name": "VUE",
-				"price": 3000,
-				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
-					"http://zhufengpeixun.com/videoCourse/images/new1.png",
-					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
-					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
-				]
-			},
-			{
-				"name": "React",
-				"price": 4000,
-				"imgs": ["http://zhufengpeixun.com/videoCourse/images/new5.png",
-					"http://zhufengpeixun.com/videoCourse/images/new1.png",
-					"http://zhufengpeixun.com/videoCourse/images/reg.jpg",
-					"http://zhufengpeixun.com/videoCourse/images/vueandcanvas.png"
-				]
-			}
-		]
-	},
 	"banner": {
 		"data": [{
-				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-04/FJ68IFA356NT0001NOS.jpg"
+				"img": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/9fe54a50-27da-11eb-b997-9918a5dda011.png",
+				"id": "b1"
 			},
 			{
-				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-04/FJ68IFA456NT0001NOS.jpg"
+				"img": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/9f041210-27da-11eb-97b7-0dc4655d6e68.png",
+				"id": "b2"
 			},
 			{
-				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-04/FJ68IFA556NT0001NOS.jpg"
-			},
-			{
-				"img": "http://pic-bucket.ws.126.net/photo/0001/2020-08-05/FJ8SOIKH56NT0001NOS.jpg"
+				"img": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/9dd86350-27da-11eb-b680-7980c8a877b8.png",
+				"id": "b3"
 			}
 		]
 	},
-	"publicClass":{
-		"data":[
-			{
-				"publicId":"p1",
-				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1603181843.jpg",
-				"title":"手写Vue源码-可能是你见过最完整的版本！",
-				"url":"https://m.aldzs.com/"
+	"floor": {
+		"data": [{
+				"title": "时尚女装",
+				"imgsrc": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/2c85d150-27ea-11eb-880a-0db19f4f74bb.png",
+				"product_list": [{
+						"name": "优质服饰",
+						"id": "1001",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e724ef00-27ea-11eb-b680-7980c8a877b8.png"
+					},
+					{
+						"name": "春季热门",
+						"id": "1002",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e7eb7350-27ea-11eb-b680-7980c8a877b8.png"
+					},
+					{
+						"name": "清仓爆款",
+						"id": "1003",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e8a99330-27ea-11eb-8a36-ebb87efcf8c0.png"
+					},
+					{
+						"name": "倒春寒",
+						"id": "1004",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e97dfa30-27ea-11eb-8a36-ebb87efcf8c0.png"
+					},
+					{
+						"name": "怦然心动",
+						"id": "1005",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/ea5c9a60-27ea-11eb-8a36-ebb87efcf8c0.png"
+					}
+				]
 			},
 			{
-				"publicId":"p2",
-				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1598523943.jpg",
-				"title":"两天时间基于Vue从零打造自己的UI组件库",
-				"url":"https://m.aldzs.com/"
+				"title": "户外运动",
+				"imgsrc": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/254520d0-27ea-11eb-97b7-0dc4655d6e68.png",
+				"product_list": [{
+						"name": "勇往直前",
+						"id": "2001",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/69cca830-27eb-11eb-880a-0db19f4f74bb.png"
+					},
+					{
+						"name": "户",
+						"id": "2002",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6a7e1de0-27eb-11eb-8ff1-d5dcf8779628.png"
+					},
+					{
+						"name": "手",
+						"id": "2003",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6b2e5b10-27eb-11eb-880a-0db19f4f74bb.png"
+					},
+					{
+						"name": "鞋",
+						"id": "2004",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6c0a6330-27eb-11eb-bd01-97bc1429a9ff.png"
+					},
+					{
+						"name": "冲锋衣",
+						"id": "2005",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6cb919c0-27eb-11eb-b997-9918a5dda011.png"
+					}
+				]
 			},
 			{
-				"publicId":"p3",
-				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1594973162.jpg",
-				"title":"工程化1:1从零实现Vue源码",
-				"url":"https://m.aldzs.com/"
-			},
-			{
-				"publicId":"p4",
-				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1592291479.jpg",
-				"title":"从零手写实现React16中的Fiber架构",
-				"url":"https://m.aldzs.com/"
-			},
-			{
-				"publicId":"p5",
-				"img":"http://aldpicsh-1252823355.cossh.myqcloud.com/bossavatar/1590201805.jpg",
-				"title":"基于Vue+Vant搭建移动端通用骨架",
-				"url":"https://m.aldzs.com/"
+				"title": "箱包配饰",
+				"imgsrc": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/1bba3230-27ea-11eb-bd01-97bc1429a9ff.png",
+				"product_list": [{
+						"name": "清新气质",
+						"id": "2001",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e2755430-27eb-11eb-b997-9918a5dda011.png"
+					},
+					{
+						"name": "胸针",
+						"id": "2002",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e323bca0-27eb-11eb-880a-0db19f4f74bb.png"
+					},
+					{
+						"name": "手链",
+						"id": "2003",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e0306d40-27eb-11eb-97b7-0dc4655d6e68.png"
+					},
+					{
+						"name": "项链",
+						"id": "2004",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e10ee660-27eb-11eb-97b7-0dc4655d6e68.png"
+					},
+					{
+						"name": "情侣表",
+						"id": "2005",
+						"image_src": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e1b81eb0-27eb-11eb-97b7-0dc4655d6e68.png"
+					}
+				]
 			}
 		]
-	},
-	"cartList": {
-		"data": []
 	}
+
 }
