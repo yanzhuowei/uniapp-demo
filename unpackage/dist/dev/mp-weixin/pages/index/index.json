@@ -1,6 +1,7 @@
 {
   "navigationStyle": "custom",
   "usingComponents": {
-    "nav-bar": "/components/navBar/navBar"
+    "nav-bar": "/components/navBar/navBar",
+    "search": "/components/search/search"
   }
 }
