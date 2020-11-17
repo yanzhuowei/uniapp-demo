@@ -114,6 +114,1438 @@
 				]
 			}
 		]
+	},
+	"category": {
+		"data": [{
+				"cat_id": 1,
+				"cat_name": "大家电",
+				"children": [{
+					"cat_id": 1,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 1,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 1,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 2,
+				"cat_name": "热门推荐",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 3,
+				"cat_name": "海外购",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 4,
+				"cat_name": "苏宁房产",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 5,
+				"cat_name": "手机相机",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 6,
+				"cat_name": "电脑办公",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 7,
+				"cat_name": "厨卫电器",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 8,
+				"cat_name": "食品酒水",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			},
+			{
+				"cat_id": 9,
+				"cat_name": "居家生活",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}, {
+				"cat_id": 10,
+				"cat_name": "厨房电器",
+				"children": [{
+					"cat_id": 2,
+					"cat_pid": 1,
+					"cat_name": "电视",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 1,
+							"cat_name": "曲面电视",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 2,
+							"cat_name": "海信",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 3,
+							"cat_name": "创维",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 4,
+							"cat_name": "夏普",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 5,
+							"cat_name": "TCL",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 6,
+							"cat_name": "PPTV",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 7,
+							"cat_name": "小米",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 1,
+							"cat_level": 8,
+							"cat_name": "长虹",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}, {
+					"cat_id": 2,
+					"cat_pid": 2,
+					"cat_name": "厨房电器",
+					"children": [{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 1,
+							"cat_name": "美的",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d5b79690-2877-11eb-899d-733ae62bed2f.jpg"
+						}, {
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 2,
+							"cat_name": "九阳",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d66eb190-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 3,
+							"cat_name": "苏泊尔",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d715ee10-2877-11eb-899d-733ae62bed2f.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 4,
+							"cat_name": "格兰仕",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8195450-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 5,
+							"cat_name": "东菱",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d8ca06b0-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 6,
+							"cat_name": "空气炸锅",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d983e0d0-2877-11eb-97b7-0dc4655d6e68.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 7,
+							"cat_name": "面条机",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/da28ac50-2877-11eb-8ff1-d5dcf8779628.jpg"
+						},
+						{
+							"cat_id": 2,
+							"cat_pid": 2,
+							"cat_level": 8,
+							"cat_name": "打蛋器",
+							"cat_icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dace3b20-2877-11eb-8ff1-d5dcf8779628.jpg"
+						}
+					]
+				}]
+			}
+		]
+	},
+	"details": {
+		"data": [{
+				"goods_id": 1001,
+				"goods_name": "优质服饰 潮流时尚汇",
+				"goods_price": 288,
+				"shop": "苏宁官网旗舰店",
+				"shop_id": "s001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e724ef00-27ea-11eb-b680-7980c8a877b8.png"
+			},
+			{
+				"goods_id": 1002,
+				"goods_name": "春季热门 撞色卫衣",
+				"goods_price": 79,
+				"shop": "京东官网旗舰店",
+				"shop_id": "j001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e7eb7350-27ea-11eb-b680-7980c8a877b8.png"
+			},
+			{
+				"goods_id": 1003,
+				"goods_name": "爆款清仓 一件5折",
+				"goods_price": 10,
+				"shop": "华为官网旗舰店",
+				"shop_id": "h001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e8a99330-27ea-11eb-8a36-ebb87efcf8c0.png"
+			},
+			{
+				"goods_id": 1004,
+				"goods_name": "倒寒春 裙子",
+				"goods_price": 145,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e97dfa30-27ea-11eb-8a36-ebb87efcf8c0.png"
+			},
+			{
+				"goods_id": 1005,
+				"goods_name": "少女系列白色衬衫",
+				"goods_price": 69,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/ea5c9a60-27ea-11eb-8a36-ebb87efcf8c0.png"
+			},		
+			{
+				"goods_id": 2001,
+				"goods_name": "勇往直前 畅享户外运动",
+				"goods_price": 166,
+				"shop": "苏宁官网旗舰店",
+				"shop_id": "s001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/69cca830-27eb-11eb-880a-0db19f4f74bb.png"
+			},
+			{
+				"goods_id": 2002,
+				"goods_name": "户外登山包 登峰造极",
+				"goods_price": 666,
+				"shop": "京东官网旗舰店",
+				"shop_id": "j001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6a7e1de0-27eb-11eb-8ff1-d5dcf8779628.png"
+			},
+			{
+				"goods_id": 2003,
+				"goods_name": "超强手套 全方位保护",
+				"goods_price": 99,
+				"shop": "华为官网旗舰店",
+				"shop_id": "h001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6b2e5b10-27eb-11eb-880a-0db19f4f74bb.png"
+			},
+			{
+				"goods_id": 2004,
+				"goods_name": "户外运动鞋 千里之行始于足下",
+				"goods_price": 456,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6c0a6330-27eb-11eb-bd01-97bc1429a9ff.png"
+			},
+			{
+				"goods_id": 2005,
+				"goods_name": "冲锋衣 时尚潮流巅峰",
+				"goods_price": 888,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/6cb919c0-27eb-11eb-b997-9918a5dda011.png"
+			},
+			{
+				"goods_id": 3001,
+				"goods_name": "清新气质 百搭配饰礼物",
+				"goods_price": 299,
+				"shop": "苏宁官网旗舰店",
+				"shop_id": "s001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e2755430-27eb-11eb-b997-9918a5dda011.png"
+			},
+			{
+				"goods_id": 3002,
+				"goods_name": "复古胸针 胸针装饰品",
+				"goods_price": 66,
+				"shop": "京东官网旗舰店",
+				"shop_id": "j001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e323bca0-27eb-11eb-880a-0db19f4f74bb.png"
+			},
+			{
+				"goods_id": 3003,
+				"goods_name": "韩版手链 女士韩版风格",
+				"goods_price": 88,
+				"shop": "华为官网旗舰店",
+				"shop_id": "h001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e0306d40-27eb-11eb-97b7-0dc4655d6e68.png"
+			},
+			{
+				"goods_id": 3004,
+				"goods_name": "水晶项链 美不止一面",
+				"goods_price": 1999,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e10ee660-27eb-11eb-97b7-0dc4655d6e68.png"
+			},
+			{
+				"goods_id": 3005,
+				"goods_name": "情侣表 情比金坚",
+				"goods_price": 1314,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e1b81eb0-27eb-11eb-97b7-0dc4655d6e68.png"
+			},
+			{
+				"goods_id": 4001,
+				"goods_name": "【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】",
+				"goods_price": 1399,
+				"shop": "苏宁官网旗舰店",
+				"shop_id": "s001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/d812d160-2887-11eb-8ff1-d5dcf8779628.jpg"
+			},
+			{
+				"goods_id": 4002,
+				"goods_name": "卡奇莱德汽车车载空气净化器负离子除甲醛PM2.5除烟异味车用氧吧双涡轮出风（红色）",
+				"goods_price": 168,
+				"shop": "京东官网旗舰店",
+				"shop_id": "j001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/dd4fc2a0-2887-11eb-b680-7980c8a877b8.jpg"
+			},
+			{
+				"goods_id": 4003,
+				"goods_name": "沿途（yantu）车载充电器车充一拖二usb转接口手机智能头多功能汽车点烟器",
+				"goods_price": 168,
+				"shop": "华为官网旗舰店",
+				"shop_id": "h001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e1a4c4e0-2887-11eb-8a36-ebb87efcf8c0.jpg"
+			},
+			{
+				"goods_id": 4004,
+				"goods_name": "车载冰箱7.5L 冷暖两用汽车冰箱半导体12V迷你电冰箱升级款",
+				"goods_price": 4888,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/e611e300-2887-11eb-8ff1-d5dcf8779628.jpg"
+			},
+			{
+				"goods_id": 4005,
+				"goods_name": "神行者电子狗 神行者L70电子狗测速 测速雷达 流动测速 多种警示路段提醒",
+				"goods_price": 600,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/ea569190-2887-11eb-97b7-0dc4655d6e68.jpg"
+			},
+			{
+				"goods_id": "b1",
+				"goods_name": "好货大曝光大礼包 只需25元带回家",
+				"goods_price": 25,
+				"shop": "华为官网旗舰店",
+				"shop_id": "h001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/9fe54a50-27da-11eb-b997-9918a5dda011.png"
+			},
+			{
+				"goods_id": "b2",
+				"goods_name": "小米电视 强势入驻 49寸智能",
+				"goods_price": 4149,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/9f041210-27da-11eb-97b7-0dc4655d6e68.png"
+			},
+			{
+				"goods_id": "b3",
+				"goods_name": "夏季热销榜top1牛仔外套",
+				"goods_price": 199,
+				"shop": "小米官网旗舰店",
+				"shop_id": "m001",
+				"goods_small_logo": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/9dd86350-27da-11eb-b680-7980c8a877b8.png"
+			}
+		]
 	}
 
 }
