@@ -224,6 +224,7 @@ var _sleep = _interopRequireDefault(__webpack_require__(/*! @/utils/sleep */ 64)
                     goods_name: _this.goods.goods_name,
                     goods_price: _this.goods.goods_price,
                     goods_small_logo: _this.goods.goods_small_logo,
+                    category: _this.goods.category,
                     goods_number: 1,
                     // 辅助数据（选中购车中商品）
                     checked: true });

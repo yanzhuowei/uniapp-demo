@@ -1364,6 +1364,7 @@
 		"data": [{
 				"goods_id": 1001,
 				"goods_name": "优质服饰 潮流时尚汇",
+				"category":"箱包",
 				"goods_price": 288,
 				"shop": "苏宁官网旗舰店",
 				"shop_id": "s001",
@@ -1372,6 +1373,7 @@
 			{
 				"goods_id": 1002,
 				"goods_name": "春季热门 撞色卫衣",
+				"category":"箱包",
 				"goods_price": 79,
 				"shop": "京东官网旗舰店",
 				"shop_id": "j001",
@@ -1380,6 +1382,7 @@
 			{
 				"goods_id": 1003,
 				"goods_name": "爆款清仓 一件5折",
+				"category":"箱包",
 				"goods_price": 10,
 				"shop": "华为官网旗舰店",
 				"shop_id": "h001",
@@ -1388,6 +1391,7 @@
 			{
 				"goods_id": 1004,
 				"goods_name": "倒寒春 裙子",
+				"category":"箱包",
 				"goods_price": 145,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1396,6 +1400,7 @@
 			{
 				"goods_id": 1005,
 				"goods_name": "少女系列白色衬衫",
+				"category":"箱包",
 				"goods_price": 69,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1404,6 +1409,7 @@
 			{
 				"goods_id": 2001,
 				"goods_name": "勇往直前 畅享户外运动",
+				"category":"衣服",
 				"goods_price": 166,
 				"shop": "苏宁官网旗舰店",
 				"shop_id": "s001",
@@ -1412,6 +1418,7 @@
 			{
 				"goods_id": 2002,
 				"goods_name": "户外登山包 登峰造极",
+				"category":"衣服",
 				"goods_price": 666,
 				"shop": "京东官网旗舰店",
 				"shop_id": "j001",
@@ -1420,6 +1427,7 @@
 			{
 				"goods_id": 2003,
 				"goods_name": "超强手套 全方位保护",
+				"category":"衣服",
 				"goods_price": 99,
 				"shop": "华为官网旗舰店",
 				"shop_id": "h001",
@@ -1428,6 +1436,7 @@
 			{
 				"goods_id": 2004,
 				"goods_name": "户外运动鞋 千里之行始于足下",
+				"category":"衣服",
 				"goods_price": 456,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1436,6 +1445,7 @@
 			{
 				"goods_id": 2005,
 				"goods_name": "冲锋衣 时尚潮流巅峰",
+				"category":"衣服",
 				"goods_price": 888,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1444,6 +1454,7 @@
 			{
 				"goods_id": 3001,
 				"goods_name": "清新气质 百搭配饰礼物",
+				"category":"饰品",
 				"goods_price": 299,
 				"shop": "苏宁官网旗舰店",
 				"shop_id": "s001",
@@ -1452,6 +1463,7 @@
 			{
 				"goods_id": 3002,
 				"goods_name": "复古胸针 胸针装饰品",
+				"category":"饰品",
 				"goods_price": 66,
 				"shop": "京东官网旗舰店",
 				"shop_id": "j001",
@@ -1460,6 +1472,7 @@
 			{
 				"goods_id": 3003,
 				"goods_name": "韩版手链 女士韩版风格",
+				"category":"饰品",
 				"goods_price": 88,
 				"shop": "华为官网旗舰店",
 				"shop_id": "h001",
@@ -1468,6 +1481,7 @@
 			{
 				"goods_id": 3004,
 				"goods_name": "水晶项链 美不止一面",
+				"category":"饰品",
 				"goods_price": 1999,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1476,6 +1490,7 @@
 			{
 				"goods_id": 3005,
 				"goods_name": "情侣表 情比金坚",
+				"category":"饰品",
 				"goods_price": 1314,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1484,6 +1499,7 @@
 			{
 				"goods_id": 4001,
 				"goods_name": "【海外购自营】黎珐(ReFa) MTG日本 CARAT铂金微电流瘦脸瘦身提拉紧致V脸美容仪 【保税仓发货】",
+				"category":"家电",
 				"goods_price": 1399,
 				"shop": "苏宁官网旗舰店",
 				"shop_id": "s001",
@@ -1492,6 +1508,7 @@
 			{
 				"goods_id": 4002,
 				"goods_name": "卡奇莱德汽车车载空气净化器负离子除甲醛PM2.5除烟异味车用氧吧双涡轮出风（红色）",
+				"category":"家电",
 				"goods_price": 168,
 				"shop": "京东官网旗舰店",
 				"shop_id": "j001",
@@ -1500,6 +1517,7 @@
 			{
 				"goods_id": 4003,
 				"goods_name": "沿途（yantu）车载充电器车充一拖二usb转接口手机智能头多功能汽车点烟器",
+				"category":"家电",
 				"goods_price": 168,
 				"shop": "华为官网旗舰店",
 				"shop_id": "h001",
@@ -1508,6 +1526,7 @@
 			{
 				"goods_id": 4004,
 				"goods_name": "车载冰箱7.5L 冷暖两用汽车冰箱半导体12V迷你电冰箱升级款",
+				"category":"家电",
 				"goods_price": 4888,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1516,6 +1535,7 @@
 			{
 				"goods_id": 4005,
 				"goods_name": "神行者电子狗 神行者L70电子狗测速 测速雷达 流动测速 多种警示路段提醒",
+				"category":"家电",
 				"goods_price": 600,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1524,6 +1544,7 @@
 			{
 				"goods_id": "b1",
 				"goods_name": "好货大曝光大礼包 只需25元带回家",
+				"category":"零食",
 				"goods_price": 25,
 				"shop": "华为官网旗舰店",
 				"shop_id": "h001",
@@ -1532,6 +1553,7 @@
 			{
 				"goods_id": "b2",
 				"goods_name": "小米电视 强势入驻 49寸智能",
+				"category":"家电",
 				"goods_price": 4149,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",
@@ -1540,6 +1562,7 @@
 			{
 				"goods_id": "b3",
 				"goods_name": "夏季热销榜top1牛仔外套",
+				"category":"外套",
 				"goods_price": 199,
 				"shop": "小米官网旗舰店",
 				"shop_id": "m001",

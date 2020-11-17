@@ -92,6 +92,7 @@
 						goods_name: this.goods.goods_name,
 						goods_price: this.goods.goods_price,
 						goods_small_logo: this.goods.goods_small_logo,
+						category:this.goods.category,
 						goods_number: 1,
 						// 辅助数据（选中购车中商品）
 						checked: true
