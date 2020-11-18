@@ -4,8 +4,8 @@
 			<!-- 个人资料 -->
 			<view class="profile">
 				<view class="meta">
-					<image src="/static/uploads/monkey.png" class="avatar" alt="">
-						<text>登录/注册</text>
+					<open-data class="avatar" type="userAvatarUrl"></open-data>
+					<open-data class="nickname" type="userNickName"></open-data>
 				</view>
 			</view>
 			<!-- 统计 -->
@@ -39,8 +39,8 @@
 			</view>
 			<!-- 其它 -->
 			<view class="extra">
-				<view class="item">联系客服</view>
-				<view class="item">意见反馈</view>
+				<button type="default" open-type="contact">联系客服</button>
+				<view class="item" @click="t">意见反馈</view>
 			</view>
 		</view>
 	</view>
@@ -54,7 +54,19 @@
 			}
 		},
 		methods: {
-
+			t() {
+				uni.navigateToMiniProgram({
+					appId: 'wx17234ce1177525bd',
+					path: 'pages/index/index?aldad=36d62a7f',
+					extraData: {
+						foo: 'bar'
+					},
+					envVersion: 'release',
+					success(res) {
+						// 打开成功
+					}
+				})
+			}
 		}
 	}
 </script>
@@ -80,17 +92,19 @@
 			.meta {
 
 				.avatar {
+					display: block;
 					width: 140rpx;
 					height: 140rpx;
 					border-radius: 50%;
 					border: 2rpx solid #fff;
+					overflow: hidden;
 				}
 
-				text {
+				.nickname {
 					display: block;
 					text-align: center;
 					margin-top: 20rpx;
-					font-size: 24rpx;
+					font-size: 28rpx;
 					color: #fff;
 				}
 			}
@@ -163,7 +177,26 @@
 			margin: 0 20rpx;
 			background-color: #fff;
 
+			button {
+				height: 88rpx;
+				line-height: 88rpx;
+				padding-left: 20rpx;
+				background: #fff;
+				outline: none;
+				border-color: ;
+				font-size: 30rpx;
+				color: #333;
+
+			}
+
+			button::after {
+
+				border: none;
+
+			}
+
 			.item {
+				text-align: center;
 				height: 88rpx;
 				line-height: 88rpx;
 				padding-left: 20rpx;

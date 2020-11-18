@@ -1,0 +1,6 @@
+
+button {
+  width: 600rpx;
+  margin: 200rpx auto 0;
+}
+

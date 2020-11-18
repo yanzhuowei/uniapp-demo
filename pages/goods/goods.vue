@@ -24,7 +24,7 @@
 			</view>
 			<!-- 操作 -->
 			<view class="action">
-				<button>联系客服</button>
+				<button open-type="contact">联系客服</button>
 				<text class="cart" @click="goCart">购物车</text>
 				<text class="add" @click="addCart">加入购物车</text>
 				<text class="buy" @click="buy">立即购买</text>
@@ -124,6 +124,13 @@
 					success: (res) => {
 						console.log(res)
 						this.goods = res.result.data[0]
+						
+						
+						wx.aldVisit({
+						    category:this.goods.category,  
+						    id:this.goods.goods_id,   
+						    name:this.goods.goods_name.substr(0,4),   
+						})
 					}
 				})
 			}

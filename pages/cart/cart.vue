@@ -110,11 +110,20 @@
 
 			async goPay() {
 
+
 				// 检测是否有选中的商品
-				if (this.checkedCarts.length == 0) return;
+				if (this.checkedCarts.length == 0) return uni.showToast({
+				    title: '没有选中的商品',
+					icon:'none',
+				    duration: 2000
+				});
 
 				// 检测是否有收货地址
-				if (!this.address) return;
+				if (!this.address) return uni.showToast({
+				    title: '没有选择收货地址',
+					icon:'none',
+				    duration: 2000
+				});
 
 				// 有没有登录，如没有登录跳转到登录页面
 				// if (!uni.getStorageSync('token')) {
@@ -141,6 +150,22 @@
 				// 	}
 				// })
 				
+				
+				
+				let array = []
+				this.checkedCarts.map(item =>{
+					let obj = {}
+					obj.amount = item.goods_number
+					obj.category = item.category
+					obj.id = item.goods_id
+					obj.name = item.goods_name
+					array.push(obj)
+				})
+				
+				wx.aldPayOrder({
+				    price:this.amount,   
+					details:array
+				})
 				
 				
 				

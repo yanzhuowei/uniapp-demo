@@ -14,16 +14,16 @@
 			<!-- 导航条 -->
 			<view class="navs">
 				<navigator url="/pages/category/category" open-type="switchTab">
-					<image src="/static/uploads/icon_index_nav_1@2x.png" />
+					<image src="/static/uploads/icon_index_nav_1@2x.png" @click="nav1" />
 				</navigator>
 				<navigator url="/pages/category/category" open-type="switchTab">
-					<image src="/static/uploads/icon_index_nav_2@2x.png" />
+					<image src="/static/uploads/icon_index_nav_2@2x.png" @click="nav2" />
 				</navigator>
 				<navigator url="/pages/category/category" open-type="switchTab">
-					<image src="/static/uploads/icon_index_nav_3@2x.png" />
+					<image src="/static/uploads/icon_index_nav_3@2x.png" @click="nav3" />
 				</navigator>
 				<navigator url="/pages/category/category" open-type="switchTab">
-					<image src="/static/uploads/icon_index_nav_4@2x.png" />
+					<image src="/static/uploads/icon_index_nav_4@2x.png" @click="nav4" />
 				</navigator>
 			</view>
 			<!-- 楼层 -->
@@ -52,7 +52,7 @@
 		},
 		data() {
 			return {
-				pageHeight:null,
+				pageHeight: null,
 				flag: true,
 				opa: 0,
 				bannerAry: [],
@@ -89,10 +89,22 @@
 		onUnload() {
 			console.log('监听页面卸载')
 		},
+		onShareAppMessage(res) {
+			return {
+				title: '购物小程序测试主页',
+				path: 'pages/index/index'
+			}
+		},
+		onShareTimeline() {
+			return {
+				title: '购物小程序测试主页',
+				path: 'pages/index/index'
+			}
+		},
 		methods: {
-			disableScroll (ev) {
-			        this.pageHeight = ev.pageHeight - uni.getSystemInfoSync().statusBarHeight + 45 + 'px';
-			      },
+			disableScroll(ev) {
+				this.pageHeight = ev.pageHeight + 'px';
+			},
 			// 1、创建云函数，部署云函数
 			// 2、在使用的地方进行调用
 			getBanner() {
@@ -113,6 +125,24 @@
 					}
 				})
 			},
+			nav1(){
+				wx.aldstat.sendEvent('点击导航','母婴用品')
+			},
+			nav2(){
+				wx.aldstat.sendEvent('点击导航',{
+					'nav':'超市够'
+				})
+			},
+			nav3(){
+				wx.aldstat.sendEvent('点击导航',{
+					'nav':'秒杀拍'
+				})
+			},
+			nav4(){
+				wx.aldstat.sendEvent('点击导航',{
+					'nav':'分类'
+				})
+			}
 
 		}
 	}

@@ -12,7 +12,7 @@
 			<view class="sub">
 				<scroll-view scroll-y>
 					<!-- 封面图 -->
-					<image src="/static/uploads/category.png" class="thumb"></image>
+					<image src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-zryt1mcggj5o0b4296/f8fa3e30-2964-11eb-b680-7980c8a877b8.png" class="thumb"></image>
 					<view class="children" :key="childIndex" v-for="(child, childIndex) in childCategory">
 						<view class="title">{{child.cat_name}}</view>
 						<!-- 品牌 -->
@@ -46,11 +46,25 @@
 			// 调用获取一级分类接口
 			this.getTopCategory();
 		},
+		onShow() {
+		},
 		// 计算属性
 		computed: {
 			// 根据一级分类的索引值，计算出对应的二级分类
 			childCategory() {
 				return this.topCategory.length && this.topCategory[this.currentIndex].children;
+			}
+		},
+		onShareAppMessage(res) {
+			return {
+				title: '购物小程序测试分类页',
+				path: 'pages/category/category'
+			}
+		},
+		onShareTimeline() {
+			return {
+				title: '购物小程序测试分类页',
+				path: 'pages/category/category'
 			}
 		},
 		methods: {

@@ -33,6 +33,13 @@
 
 		}, {
 			"path": "pages/order/order"
+		}, {
+			"path": "pages/auth/auth",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
 		}
 	],
 	"globalStyle": {
@@ -70,5 +77,10 @@
 				"selectedIconPath": "static/tabs/icon_user_active@3x.png"
 			}
 		]
-	}
+	},
+	"navigateToMiniProgramAppIdList": [
+		"wxfcd6a87828c672d1",
+		"wxf0269c63d06da756",
+		"wx17234ce1177525bd"
+	]
 }
