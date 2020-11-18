@@ -2,7 +2,7 @@
 	<view class="content">
 		<navBar :opa="opa">测试小程序请勿当真</navBar>
 		<view :style="{height: pageHeight, overflow: 'hidden'}">
-
+			<search @search="disableScroll"></search>
 			<!-- 焦点图 -->
 			<swiper class="banner" indicator-dots indicator-color="rgba(255, 255, 255, 0.6)" indicator-active-color="#fff">
 				<swiper-item v-for="item in bannerAry" :key="item._id">
@@ -52,6 +52,7 @@
 		},
 		data() {
 			return {
+				pageHeight:null,
 				flag: true,
 				opa: 0,
 				bannerAry: [],
@@ -89,6 +90,9 @@
 			console.log('监听页面卸载')
 		},
 		methods: {
+			disableScroll (ev) {
+			        this.pageHeight = ev.pageHeight - uni.getSystemInfoSync().statusBarHeight + 45 + 'px';
+			      },
 			// 1、创建云函数，部署云函数
 			// 2、在使用的地方进行调用
 			getBanner() {
